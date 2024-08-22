@@ -19,6 +19,7 @@ The namespace is used to decrease or limit the scope of any variable or function
  
  _'endl'_ is used to move the cursor to the new line.
 # Program 
+## User Input
 #include<iostream>
 using namespace std;
 int main()
@@ -57,8 +58,11 @@ int main()
     return 0;
 }
 # Output
+### User Input
 ![User Input](https://github.com/user-attachments/assets/cfab0e45-7ed0-45f3-aeeb-b11582cc8b81)
+### Hello World
 ![hello](https://github.com/user-attachments/assets/e1370f61-081f-49d9-976c-64d3302e06eb)
+### Calculator
 ![Exp 1 calci](https://github.com/user-attachments/assets/88369368-3d7f-4b3b-862c-31670fb22b8e)
 # Conclusion
 We learnt how to take input from user and print it, we learnt to use basic operators like +, - , * and /.
