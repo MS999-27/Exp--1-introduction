@@ -3,7 +3,7 @@
 To learn about VS code and getting input from user and displaying it.
 
 # Software Used
-VS Code
+VS Code and Cpp online Compiler
 
 # Problem Statement
  1.) Write a program to print simple 'Hello world' message.
