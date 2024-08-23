@@ -19,7 +19,20 @@ The namespace is used to decrease or limit the scope of any variable or function
  
  _'endl'_ is used to move the cursor to the new line.
 # Program 
-## User Input
+
+```javascript
+//Print hello world
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<< "Hello World!";
+    return 0;
+}
+
+
+ 
+// Input from user
 #include<iostream>
 using namespace std;
 int main()
@@ -30,15 +43,8 @@ int main()
     cout<<"Hello  " <<a;
     return 0;
 }
-## Hello World
-include<iostream>
-using namespace std;
-int main()
-{
-    cout<< "Hello World!";
-    return 0;
-}
-## Calculator
+
+//Calculator 
 #include<iostream>
 using namespace std;
 int main()
@@ -57,6 +63,9 @@ int main()
     cout<<"Quotient is: "<<f<<endl;
     return 0;
 }
+```
+
+
 # Output
 ### User Input
 ![User Input](https://github.com/user-attachments/assets/cfab0e45-7ed0-45f3-aeeb-b11582cc8b81)
